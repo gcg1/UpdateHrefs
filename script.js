@@ -23,7 +23,7 @@ const updatePropertyFooterLinks = () => {
 console.log(PropertyFooterLink);
 
 if (ProfileFooterLink !== null) {
-  updateProfileFooterLinlks();
+  updateProfileFooterLinks();
 } else if (PropertyFooterLink !== null) {
   updatePropertyFooterLinks();
 } else {
