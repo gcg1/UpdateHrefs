@@ -6,7 +6,7 @@ let PropertyFooterLink = document.querySelector(
   ".PropCard .PoweredBy .HyperLink"
 );
 
-const updateProfileFooterLinlks = () => {
+const updateProfileFooterLinks = () => {
   ProfileFooterLink.setAttribute(
     "href",
     "https://getpropcard.com/?utm_source=agentsite&utm_campaign=footers"
